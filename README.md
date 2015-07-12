@@ -3,9 +3,9 @@
 SICP in IPython Notebook with Scheme kernel.
 
 <!-- BADGES/ -->
-[![BitCoin donate button](https://img.shields.io/badge/Bitcoin-donate-2b71b1.svg?style=plastic)](https://www.coinbase.com/rainyear)
-[![Tenpay donate button](https://img.shields.io/badge/Tenpay-donate-brightgreen.svg?style=plastic)](https://github.com/rainyear/lolita/wiki/Donation#tenpay)
-[![Alipay donate button](https://img.shields.io/badge/Alipay-donate-orange.svg?style=plastic)](https://github.com/rainyear/lolita/wiki/Donation#alipay)
+[![BitCoin donate button](https://img.shields.io/badge/Bitcoin-donate-2b71b1.svg?style=flat)](https://www.coinbase.com/rainyear)
+[![Tenpay donate button](https://img.shields.io/badge/Tenpay-donate-brightgreen.svg?style=flat)](https://github.com/rainyear/lolita/wiki/Donation#tenpay)
+[![Alipay donate button](https://img.shields.io/badge/Alipay-donate-orange.svg?style=flat)](https://github.com/rainyear/lolita/wiki/Donation#alipay)
 <!-- /BADGES -->
 
 ## Run this notebook locally
